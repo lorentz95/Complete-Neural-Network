@@ -1,5 +1,5 @@
-# Complete-Neural-Network
-A fully implemented Neural Network using PyTorch
+# Complete-Neural-Network(s)
+Examples of fully implemented Neural Networks using PyTorch
 
 ## Getting started
 PyTorch full guide:
