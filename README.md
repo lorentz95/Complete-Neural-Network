@@ -1,6 +1,8 @@
 # Complete-Neural-Network(s)
 Examples of fully implemented Neural Networks using PyTorch
 
+![Logo of the project](https://raw.githubusercontent.com/mrdbourke/pytorch-deep-learning/main/images/01_a_pytorch_workflow.png)
+
 ## Getting started
 PyTorch full guide:
 https://youtu.be/V_xro1bcAuA?si=Ob1xi-iERbPiwEhc
